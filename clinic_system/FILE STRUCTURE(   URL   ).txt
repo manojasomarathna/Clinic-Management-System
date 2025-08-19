@@ -1,0 +1,16 @@
+
+
+URL :-
+http://localhost/clinic_system/appointment/add_appointment.php
+http://localhost/clinic_system/appointment/view_appointments.php
+http://localhost/clinic_system/appointment/insert_appointment.php
+http://localhost/clinic_system/patient/delete_patient.php?id=9
+http://localhost/clinic_system/patient/edit_patient.php?id=10
+http://localhost/clinic_system/patient/add_patient.php
+http://localhost/clinic_system/patient/view_patients.php
+http://localhost/clinic_system/patient/edit_patient.php?id=9
+http://localhost/clinic_system/reports/report_by_doctor.php
+http://localhost/clinic_system/reports/report_summary.php
+http://localhost/clinic_system/index.php
+
+
